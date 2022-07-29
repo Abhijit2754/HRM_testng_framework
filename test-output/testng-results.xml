@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-29T23:28:04 IST" name="Default suite" finished-at="2022-07-29T23:28:29 IST" duration-ms="24706">
+    <groups>
+    </groups>
+    <test started-at="2022-07-29T23:28:04 IST" name="Default test" finished-at="2022-07-29T23:28:29 IST" duration-ms="24706">
+      <class name="com.testCases.AdminPageTest">
+        <test-method is-config="true" signature="AdminPageTest()[pri:0, instance:com.testCases.AdminPageTest@2053d869]" started-at="2022-07-29T23:28:04 IST" name="AdminPageTest" finished-at="2022-07-29T23:28:16 IST" duration-ms="12042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminPageTest -->
+        <test-method signature="check_test_user()[pri:0, instance:com.testCases.AdminPageTest@2053d869]" started-at="2022-07-29T23:28:16 IST" name="check_test_user" finished-at="2022-07-29T23:28:19 IST" duration-ms="2557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_test_user -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testCases.AdminPageTest@2053d869]" started-at="2022-07-29T23:28:19 IST" name="tearDown" finished-at="2022-07-29T23:28:29 IST" duration-ms="10072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.AdminPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
