@@ -69,8 +69,7 @@ public class AdminPage {
 		action.type(mpassword, "Promote123*");
 		action.type(confirmpassword, "Promote123*");
 		Thread.sleep(1000);
-		driver.findElement(By.xpath("//input[@id='btnSave']")).click();
-		
+		driver.findElement(By.xpath("//input[@id='btnSave']")).click();		
 	}
 	
 	public void addUserCanclebtn() throws InterruptedException
